@@ -49,11 +49,12 @@ header nav{
 /* Boxes */
 #boxes{
     margin-top:top;
+    padding: 30;
 }
 
 #boxes .box{
    float:left;
-    padding:5; 
+    padding:30; 
     width:30%;
     
 }
